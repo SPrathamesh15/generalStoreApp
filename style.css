@@ -1,0 +1,69 @@
+.header{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 50px;
+}
+.list-group-item {
+    padding-top: 20px;
+}
+.form{
+    background-color: #F8CADD;
+    padding: 15px;
+    color: #FE2172;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+
+li:nth-child(even) {
+    background-color: #F8CADD;
+    margin-top: 10px;
+}
+li:nth-child(odd) {
+    background-color: white;
+    margin-top: 10px;
+}
+.buyonebutton {
+    margin: 10px;
+    font-size: 15px;
+    background-color: #2E6DEB;
+    border: none;
+    border-radius: 20px;
+    color: white;   
+    padding: 5px;
+    margin-top: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    float: right;
+}
+
+.buytwobutton {
+    margin: 10px;
+    font-size: 15px;
+    background-color: #8C2EEB;
+    border: none;
+    border-radius: 20px;
+    color: white;   
+    padding: 5px;
+    margin-top: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 15px;
+    float: right;
+    
+}
+
+.buythreebutton {
+    margin: 10px;
+    font-size: 15px;
+    background-color: #EB2EAC;
+    border: none;
+    border-radius: 20px;
+    color: white;   
+    padding: 5px;
+    margin-top: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 15px;
+    float: right;
+}
